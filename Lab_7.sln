@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalApp", "AnimalApp\AnimalApp.csproj", "{FBE83D39-AA3B-42DB-BEE6-35A7813C2DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalLibrary", "AnimalLibrary\AnimalLibrary.csproj", "{5577DD05-003A-4DFE-8C0E-90F8219C11C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE83D39-AA3B-42DB-BEE6-35A7813C2DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE83D39-AA3B-42DB-BEE6-35A7813C2DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE83D39-AA3B-42DB-BEE6-35A7813C2DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE83D39-AA3B-42DB-BEE6-35A7813C2DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5577DD05-003A-4DFE-8C0E-90F8219C11C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5577DD05-003A-4DFE-8C0E-90F8219C11C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5577DD05-003A-4DFE-8C0E-90F8219C11C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5577DD05-003A-4DFE-8C0E-90F8219C11C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
